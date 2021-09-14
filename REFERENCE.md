@@ -1,3 +1,7 @@
+# Install
+
+`puppet module install telefonica-github_actions_runner`
+
 # Reference
 
 ## Table of Contents
